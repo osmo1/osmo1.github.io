@@ -51,6 +51,10 @@
     {
       "name": "Jayden's Server",
       "address": "https://ani.jaydenha.uk"
+    },
+    {
+      "name": "osmo1",
+      "address": "192.168.11.10:1080"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
